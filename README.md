@@ -1,5 +1,7 @@
 # projectweb-belajar-bareng
-- Judul website : Belajar Bareng 
-- Dibuat pada tanggal : 17 September 2023
+- Judul website : Belajar Bareng
 
+Keterang website : Website untuk menyediakan layanan kursus online, didalam websitenya terdapat beberapa class yang berisikan informasi penting, seperti layanan yang disediakan, kursus-kursus apa saja yang ada, harga paket, dan lain sebagainya.
 Untuk lihat hasil website, langsung aja klik link ini guys! 😊 : 
+
+- Don't be shy! contact me 👉 0821-2338-1728 (Tsabit Muhsin)
