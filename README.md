@@ -1,4 +1,4 @@
-# projectweb-belajar-bareng
+# WEB-belajar-bareng
 - Judul website : Belajar Bareng
 - Live demonya ! 😊 : https://course-belajar-bareng.vercel.app/
 
